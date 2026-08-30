@@ -38,16 +38,19 @@ main {
 div {
   color: black;
 }
-/* My table width is 1000px and the color is black for visible eye sight. */
+/* My table black in color border-collapse is collapse, the width is 1425px and the width is 100%. */
 table {
   color: black;
-  width: 1000px;
+  border-collapse: collapse;
+  width: 1425px;
+  width: 100%;
 }
-/* My caption is black in color. */
+/* My caption is black in color and my font-size is 20px making visible for eye sight. */
 caption {
   color: black;
   font-size: 20px;
 }
+/* My thead is black in color. */
 thead {
   color: black;
 }
@@ -55,19 +58,29 @@ thead {
 tr {
   color: black;
 }
-/* My th is black in color. */
+/* My th is black in color and the padding is 8px. */
 th {
-  color: black;
+  border: 1px solid black;
+  padding: 8px;
 }
+/* My td border 1px solid black and the padding is 8px. */
+td {
+  border: 1px solid black;
+  padding: 8px;
+}
+/* My tbody is black in color. */
 tbody {
   color: black;
 }
+/* My hr is black in color. */
 hr {
   color: black;
 }
+/* My footer is black in color. */
 footer {
   color: black;
 }
+/* My p is black in color. */
 p {
   color: black;
 }
