@@ -1,0 +1,73 @@
+/* html is black in color. */
+html {
+  color: black;
+}
+/* My head is black in color. */
+head {
+  color: black;
+}
+/* My meta is black in color. */
+meta {
+  color: black;
+}
+/* My title is black in color. */
+title {
+  color: black;
+}
+/* My link is connect's my html to my ccs. */
+link {
+  color: black;
+}
+/* My body is black in color */
+body {
+  color: black;
+}
+/* My header is black in color. */
+header {
+  color: black;
+}
+/* My nav is black in color */
+nav {
+  color: black;
+}
+/* My main is black in color. */
+main {
+  color: black;
+}
+/* My div is black in color. */
+div {
+  color: black;
+}
+/* My table width is 1000px and the color is black for visible eye sight. */
+table {
+  color: black;
+  width: 1000px;
+}
+/* My caption is black in color. */
+caption {
+  color: black;
+  font-size: 20px;
+}
+thead {
+  color: black;
+}
+/* My tr is black in color. */
+tr {
+  color: black;
+}
+/* My th is black in color. */
+th {
+  color: black;
+}
+tbody {
+  color: black;
+}
+hr {
+  color: black;
+}
+footer {
+  color: black;
+}
+p {
+  color: black;
+}
