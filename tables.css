@@ -30,6 +30,11 @@ header {
 nav {
   color: black;
 }
+/* My footer is black in color and the padding-left is 550px. */
+footer {
+  color: black;
+  padding-left: 550px;
+}
 /* My main is black in color. */
 main {
   color: black;
@@ -76,9 +81,10 @@ tbody {
 hr {
   color: black;
 }
-/* My footer is black in color. */
+/* My footer is black in color and the padding-left is 550px. */
 footer {
   color: black;
+  padding-left: 550px;
 }
 /* My p is black in color. */
 p {
