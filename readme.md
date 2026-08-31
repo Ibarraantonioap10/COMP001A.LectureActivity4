@@ -1,0 +1,3 @@
+Author: Antonio Ibarra
+Purpose: The purpose of the tables.html file is to learn how to use border in the css file to put the code in squares correctly.
+The purpose of the forms.html is to learn how to write the code for a application information form and how to make sure the css and html work properly. The purpose of the media.html and media.css is learn how to code audio and vedio into the html and to make sure it works properly on differnt websites when opened.The purpose of index.html and index.css is to learn how to correctly link the the websites or the information and where you got the source of content from. So when they click of the link it directs the user to the website of the content and information of the stories.
